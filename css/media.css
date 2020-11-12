@@ -1,0 +1,1928 @@
+@media (max-width: 1450px) {
+    .three_stage_blocks {
+        width: 68%;
+    }
+
+    .whatWeDo-blocks {
+        width: 50%;
+    }
+
+    .whatWeDo-block {
+        margin-bottom: 30px;
+    }
+
+    .arrow {
+        display: none;
+    }
+
+}
+
+@media (max-width: 1348px) {
+    .header-block-info h2 {
+        text-align: center;
+        font-size: 22px;
+        width: 250px;
+    }
+
+    .header-block-info-logo {
+        width: 70px;
+        height: 70px;
+        top: 10px;
+        left: 1%;
+    }
+
+    .sertificate-img-active{
+        transform: scale(2.1) translateY(26%);
+    }
+    
+}
+
+@media (max-width: 1276px) {
+
+    .map_frame {
+        width: 500px;
+        height: 350px;
+    }
+
+    .maps {
+        width: 500px;
+        height: 350px;
+    }
+
+    .footer-manu {
+        width: 55%;
+    }
+}
+
+@media (max-width: 1240px) {
+    .buy-drain-water-2 hr {
+        height: 1.5px;
+    }
+}
+
+@media (max-width: 1230px) {
+    .three_stage_blocks {
+        width: 78%;
+    }
+
+    .image-gallery-fadeOff-active {
+        transform: scale(2);
+    }
+}
+
+@media (max-width: 1200px) {
+    .header-manu {
+        width: 95%;
+    }
+
+    .slider-block-info-static {
+        width: 950px;
+        height: 300px;
+    }
+
+    .slider-block-move img {
+        width: 475px;
+        height: 300px;
+    }
+
+    .work-info-block-page-3-block-2 {
+        height: 590px;
+    }
+}
+
+@media (max-width: 1178px) {
+    .header-block-title .info-text {
+        width: 62%;
+    }
+
+    .whatWeDo-blocks {
+        width: 582px;
+    }
+
+    .whatWeDo-block-pair {
+        margin-left: 30px;
+    }
+
+    .color_block_list ul li {
+        width: 95%;
+    }
+
+    .color_title_block,
+    .color_title_block_text,
+    .color_block_list,
+    .color_title_block_text {
+        width: 96%;
+    }
+}
+
+@media (max-width: 1082px) {
+
+    .map_frame {
+        width: 400px;
+        height: 350px;
+    }
+
+    .maps {
+        width: 400px;
+        height: 350px;
+    }
+
+    .block_info_company {
+        width: 84%;
+    }
+
+    .after_block_title {
+        font-size: 40px;
+        width: 90%;
+        text-align: center;
+    }
+}
+
+@media (max-width: 1078px) {
+
+    .whyWe-title {
+        font-size: 40px;
+    }
+
+    .whatWeDo-title {
+        font-size: 40px;
+    }
+
+
+    .whyWe-block {
+        width: 60%;
+        margin-bottom: 20px;
+    }
+
+    .three_stage_block {
+        width: 120%;
+    }
+    
+    .sertificate-img-active{
+        transform: scale(1.6) translateY(18%);
+    }
+
+}
+
+@media (max-width: 1070px) {
+
+
+    .header-block-title-page-3 .info-text-page-3 {
+        width: 60%;
+        font-size: 23px;
+    }
+
+    .info-text-page-3 span {
+        font-size: 32px;
+    }
+
+    .header-block-title-page-3 h1 {
+        font-size: 45px;
+    }
+
+    .header-block-info {
+        width: 95%;
+    }
+
+    .whyWe_page_2_container {
+        width: 50%;
+    }
+
+}
+
+
+@media (max-width: 1010px) {
+    .btn_down {
+        margin-top: 50px;
+    }
+}
+
+@media (max-width: 960px) {
+    .slider-block-info-static {
+        width: 700px;
+        height: 240px;
+    }
+
+    .slider-block-move img {
+        width: 350px;
+        height: 240px;
+    }
+
+    .slider-info-btn-left,
+    .slider-info-btn-right {
+        width: 50px;
+        height: 50px;
+        opacity: .8;
+    }
+
+    .slider-info-btn-left img,
+    .slider-info-btn-right img {
+        width: 20px;
+        height: 20px;
+        margin-top: 15px;
+        margin-left: 5px;
+    }
+
+    .work-info-block-page-2-block-2 {
+        height: 760px;
+    }
+
+
+    .three_stage_block {
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-bottom: 0px;
+    }
+
+    .three_stage_blocks {
+        margin-top: 50px;
+        padding-bottom: 100px;
+    }
+
+
+    .circle_img_block {
+        margin-bottom: 40px;
+        margin-right: 30px;
+    }
+
+    .three_stage_block_text {
+        margin-top: 0px;
+    }
+
+    .circle_img_block {
+        margin-top: 40px;
+    }
+
+    .underline_three_stage {
+        left: 50%;
+        top: 101%;
+        height: 40px;
+    }
+
+    .underline_last {
+        display: block;
+    }
+
+    .three_stage_container {
+        padding: 40px 0px 10px 0px;
+    }
+
+    .three_stage_title {
+        padding: 0px 10px;
+        margin-bottom: -30px;
+    }
+    
+    .block-carousel-title{
+        width: 620px;
+    }
+
+}
+
+@media (max-width: 944px) {
+
+    .footer-manu {
+        display: none;
+    }
+}
+
+@media (max-width: 942px) {
+
+    .slider-btn-right,
+    .slider-btn-left {
+        top: 230px;
+    }
+
+
+    .header {
+        height: 500px;
+    }
+
+    .header-manu {
+        display: none;
+    }
+
+    .header-block-info {
+        background: #1e1e1e;
+        align-items: center;
+        color: #fff;
+        width: 100%;
+        height: 100px;
+    }
+
+    .header-block-title {
+        margin-top: 0;
+    }
+
+    .header-block-info h2 {
+        width: 315px;
+        font-size: 16px;
+        font-family: sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        margin: 13px;
+        margin-left: 30px;
+    }
+
+    .header-block-info p {
+        display: none;
+    }
+
+    .header-block-title h3 {
+        font-size: 15px;
+    }
+
+    .header-block-title h1 {
+        font-size: 45px;
+    }
+
+    .header-block-title-before h1 {
+        font-size: 45px;
+    }
+
+    .header-block-title .info-text-page-2 {
+        font-size: 20px;
+        line-height: 40px;
+    }
+
+    .info-location-phone {
+        display: block;
+        text-align: center;
+    }
+
+    /*     Burger manu     */
+
+    .burger-manu-btn-open {
+        display: block;
+    }
+
+    .burger-manu-block {
+        display: block;
+    }
+
+    .burger-btn-block {
+        display: block;
+    }
+
+    /*    work info block     */
+
+
+
+    .experience-work {
+        font-size: 35px;
+    }
+
+    .work-info-block hr {
+        width: 130px;
+        height: 1.6px;
+        background: #000;
+    }
+
+    .work-info-block p {
+        font-size: 17px;
+        width: 90%;
+        color: #000;
+        font-weight: bold;
+        line-height: 30px;
+    }
+
+
+    .buy-ceiling {
+        padding: 12px 60px;
+        font-size: 15px;
+    }
+
+    .buy-ceiling:hover {
+        opacity: .8;
+        padding: 12px 75px;
+        transition: 0.2s;
+    }
+
+    .header-page-3 {
+        height: 600px;
+    }
+
+    .header-block-title-page-3 .info-text-page-3 {
+        width: 80%;
+        font-size: 20px;
+    }
+
+    .info-text-page-3 span {
+        font-size: 28px;
+    }
+
+    .header-block-title-page-3 h1 {
+        width: 90%;
+        text-align: center;
+        font-size: 35px;
+    }
+
+    /*    work-info-block-page-3     */
+
+    .work-info-block-page-3 {
+        height: 440px;
+    }
+
+    .work-info-block-page-3 p {
+        font-size: 25px;
+        line-height: 42px;
+        font-weight: 600;
+    }
+
+    .experience-work-page-3 {
+        width: 90%;
+        font-family: "Ubuntu", sans-serif;
+        font-weight: 300;
+        font-size: 32px;
+        margin-top: -20px;
+    }
+
+    .work-info-block-page-3-block-2 {
+        height: 520px;
+    }
+
+    .buy-drain-water-2 p {
+        font-size: 30px;
+    }
+
+    /*    modal window     */
+
+    .types_ceiling_container {
+        position: relative;
+    }
+
+    .modal_window_container {
+        position: absolute;
+        height: auto;
+    }
+
+    .modal_window_block {
+        flex-direction: column;
+        width: 70%;
+        transform: scale(.8);
+    }
+
+    .modal_window_container_n1,
+    .modal_window_container_n2 {
+        top: 20%;
+    }
+
+    .modal_window_container_n3,
+    .modal_window_container_n4 {
+        top: 30%;
+    }
+
+    .modal_window_container_n5,
+    .modal_window_container_n6 {
+        top: 45%;
+    }
+
+    .modal_window_container_n7,
+    .modal_window_container_n8 {
+        top: 60%;
+    }
+
+    .modal_window_container_n9,
+    .modal_window_container_n10 {
+        top: 75%;
+    }
+
+    .modal_window_container_n11,
+    .modal_window_container_n12 {
+        top: 90%;
+    }
+
+    .modal_block_img {
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flex;
+        display: -o-flex;
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .modal_block_img img:first-child {
+        margin-bottom: 0px;
+    }
+
+    .modal_block_img img:last-child {
+        margin-left: 20px;
+    }
+
+    .modal_block_text_h1_second {
+        font-size: 40px;
+    }
+
+    .header-block-info-logo {
+        width: 40px;
+        height: 40px;
+        top: 10px;
+        left: 1.3%;
+        z-index: 10;
+    }
+
+    .header-block-info-logo-page-5,
+    .header-block-info-logo-page-4, .header-block-info-logo-page-3 {
+        top: 15px;
+    }
+
+}
+
+@media (max-width: 864px) {
+
+    .map_frame {
+        width: 400px;
+        height: 350px;
+    }
+
+    .maps {
+        width: 400px;
+        height: 350px;
+    }
+
+    .block_info_company {
+        width: 94%;
+    }
+
+    .after_block_title {
+        font-size: 32px;
+    }
+
+    .after_block_text {
+        font-size: 20px;
+        text-align: center;
+    }
+    
+    .color_title_block{
+        font-size: 27px;
+    }
+    
+    .color_title_block_text{
+        font-size: 20px;
+    }
+    
+    .color_title_block_text_top{
+        font-size: 15px;
+    }
+    
+    .sertificate-img-active{
+        transform: scale(1.4) translateY(14%);
+    }
+}
+
+@media (max-width: 844px) {
+
+    .price_table_block_first p,
+    .price_table_block p {
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .whyWe-block {
+        width: 80%;
+    }
+
+    .whyWe_page_2_container {
+        width: 80%;
+    }
+
+    .whyWe_block_page_2 {
+        /*        height: 910px;*/
+    }
+
+    .whyWe_page_2_blocks {
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flex;
+        display: -o-flex;
+        display: flex;
+        text-align: left;
+        width: 680px;
+        /*        height: 150px;*/
+    }
+
+    .whyWe_page_2_block_text {
+        margin-left: 20px;
+        width: 560px;
+    }
+
+    .whyWe_page_2_blocks img {
+        width: 70px;
+        height: 70px;
+        margin-top: 30px;
+    }
+
+    .whyWe_page_2_blocks h3 {
+        font-size: 25px;
+    }
+
+    .buy-drain-water-2 p {
+        font-size: 25px;
+    }
+
+}
+
+@media (max-width: 844px) {
+    .block-info-page-2 {
+        width: 650px;
+    }
+
+    .block-text-and-plus h3 {
+        margin-top: 19px;
+        margin-bottom: 19px;
+        font-size: 20px;
+    }
+
+    .whyWe_page_2_text {
+        font-size: 20px;
+        margin-bottom: 40px;
+    }
+
+    .whyWe_page_2_title {
+        font-size: 38px;
+    }
+
+    .whyWe_page_3_text {
+        margin-top: 30px;
+    }
+
+}
+
+@media (max-width: 808px) {
+    .pay_title {
+        font-size: 32px;
+    }
+}
+
+@media (max-width: 770px) {
+
+    .buy-drain-water p {
+        font-size: 30px;
+    }
+
+    .work-info-block-page-2 .experience-work {
+        width: 80%;
+        font-size: 30px;
+    }
+
+    .slider-btn-right,
+    .slider-btn-left {
+        width: 50px;
+        height: 50px;
+    }
+
+    .slider-btn-right img,
+    .slider-btn-left img {
+        width: 25px;
+        height: 25px;
+        margin-top: 13px;
+        margin-left: 16px;
+    }
+
+    .slider-block-info-static {
+        width: 500px;
+        height: 300px;
+    }
+
+    .slider-block-move img {
+        width: 500px;
+        height: 300px;
+    }
+
+    .experience-work-page-2-block-2 {
+        width: 90%;
+        font-size: 25px;
+    }
+
+    .work-info-block-page-2-block-2 p {
+        font-size: 14px;
+    }
+
+    .header-block-title .info-text-page-2 {
+        width: 90%;
+    }
+
+    .footer_info_container {
+        height: 950px;
+    }
+
+    .block_info_company {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .maps {
+        margin-top: 30px;
+    }
+
+    #phone,
+    #name,
+    #submit {
+        width: 90%;
+    }
+
+    .form_footer {
+        width: 90%;
+    }
+
+    .pay_p {
+        width: 500px;
+        font-size: 20px;
+    }
+
+    .btn_down {
+        margin-top: 70px;
+    }
+
+    .buy-drain-water-2 p {
+        font-size: 25px;
+    }
+
+    .modal_block_text_h1 {
+        font-size: 40px;
+    }
+
+    .modal_block_text_h1_second {
+        font-size: 32px;
+    }
+
+    .three_stage_title {
+        width: 490px;
+    }
+}
+
+@media (max-width: 736px) {
+
+    .whyWe_page_2_block_text {
+        width: 90%;
+    }
+
+    .whyWe_page_2_blocks h3 {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .whyWe_page_2_title {
+        font-size: 33px;
+    }
+
+    .whyWe_page_3_title {
+        font-size: 46px;
+    }
+
+    .whyWe_page_3_text {
+        font-size: 20px;
+        margin-bottom: 60px;
+    }
+
+
+    /*    work-info-block-page-3     */
+
+    .work-info-block-page-3 {
+        height: 440px;
+    }
+
+    .work-info-block-page-3 p {
+        font-size: 20px;
+        line-height: 42px;
+    }
+
+    .experience-work-page-3 {
+        width: 330px;
+        font-family: "Ubuntu", sans-serif;
+        font-weight: 300;
+        font-size: 30px;
+        margin-top: -20px;
+    }
+
+    .image-gallery-fadeOff-active {
+        transform: scale(1.7);
+    }
+
+}
+
+@media (max-width: 736px) {
+
+    .block-info-page-2 {
+        width: 85%;
+    }
+
+    .block-text-and-plus h3 {
+        width: 80%;
+        margin-top: 23px;
+        margin-bottom: 23px;
+        font-size: 16px;
+    }
+
+    .btn-plus {
+        width: 40px;
+        height: 40px;
+    }
+
+    .btn-plus img {
+        width: 35px;
+        height: 35px;
+    }
+
+    .block-fadeOff ol {
+        width: 85%;
+    }
+
+    .block-fadeOff li {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    
+    .sertificate-img-active{
+        transform: none;
+    }
+}
+
+@media (max-width: 672px) {
+    .header-page-3 {
+        height: 600px;
+    }
+
+    .header-block-title-page-3 .info-text-page-3 {
+        width: 90%;
+        font-size: 20px;
+    }
+
+    .info-text-page-3 span {
+        font-size: 25px;
+        margin-bottom: -30px;
+    }
+
+    .header-block-title-page-3 h1 {
+        width: 90%;
+        text-align: center;
+        font-size: 30px;
+    }
+
+    .types_ceiling_block {
+        width: 265px;
+        transform: scale(1.2);
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+
+    .types_ceiling_img {
+        width: 100%;
+    }
+
+    .modal_window_container_n1 {
+        top: 10%;
+    }
+
+    .modal_window_container_n2 {
+        top: 17%;
+    }
+
+    .modal_window_container_n3 {
+        top: 25%;
+    }
+
+    .modal_window_container_n4 {
+        top: 32%;
+    }
+
+    .modal_window_container_n5 {
+        top: 42%;
+    }
+
+    .modal_window_container_n6 {
+        top: 47%;
+    }
+
+    .modal_window_container_n7 {
+        top: 55%;
+    }
+
+    .modal_window_container_n8 {
+        top: 65%;
+    }
+
+    .modal_window_container_n9 {
+        top: 72%;
+    }
+
+    .modal_window_container_n10 {
+        top: 80%;
+    }
+
+    .modal_window_container_n11 {
+        top: 87%;
+    }
+
+    .modal_window_container_n12 {
+        top: 95%;
+    }
+
+    .modal_block_text_h1 {
+        font-size: 37px;
+    }
+
+    .modal_block_text_h1_second {
+        font-size: 27px;
+    }
+
+    
+    .color_title_block{
+        font-size: 22px;
+    }
+    
+    .color_title_block_text{
+        font-size: 17px;
+    }
+    
+    .color_title_block_text_top{
+        font-size: 15px;
+    }    
+}
+
+@media (max-width: 632px) {
+
+    .whyWe-block {
+        width: 90%;
+    }
+
+    .whyWe-block-last {
+        margin-top: 0px;
+    }
+
+    .whyWe-title {
+        font-size: 35px;
+    }
+
+    .whatWeDo-title {
+        font-size: 35px;
+    }
+
+    .whyWe_page_2_title {
+        font-size: 28px;
+    }
+
+    .whyWe_page_2_text {
+        font-size: 17px;
+    }
+
+    .whyWe_page_3_title {
+        font-size: 46px;
+    }
+
+    .whyWe_page_3_text {
+        font-size: 20px;
+        margin-bottom: 60px;
+    }
+
+    .modal_block_img img {
+        width: 50%;
+    }
+
+}
+
+@media (max-width: 630px) {
+
+    .price_table_block_first p,
+    .price_table_block p {
+        font-size: 13px;
+    }
+
+    .price_table_block_first p:last-child span {
+        margin-right: 40px;
+    }
+
+    .price_table_block p:last-child span {
+        margin-right: 40px;
+    }
+
+    .buy-drain-water p {
+        width: 300px;
+        font-size: 30px;
+    }
+
+    .buy-drain-water-page-4 p {
+        width: 90%;
+    }
+
+    .slider-block-info-static {
+        width: 370px;
+        height: 250px;
+    }
+
+    .slider-block-move img {
+        width: 370px;
+        height: 250px;
+    }
+
+    .slider-info-btn-left,
+    .slider-info-btn-right {
+        width: 45px;
+        height: 45px;
+        /*        top: 300px;*/
+        opacity: .8;
+    }
+
+    .slider-info-btn-left img,
+    .slider-info-btn-right img {
+        width: 15px;
+        height: 15px;
+    }
+
+    .buy-drain-water-2 p {
+        width: 95%;
+        font-size: 25px;
+    }
+
+    .whatWeDo-blocks {
+        width: 80%;
+        justify-content: center;
+    }
+
+    .whatWeDo-block-pair {
+        margin-left: 0px;
+    }
+    
+    .slider-nav-left, .slider-nav-right{
+        display: none;
+    }
+    
+    .block-carousel-title{
+        width: 470px;
+        font-size: 27px;
+    }
+
+}
+
+@media (max-width: 550px) {
+    .header-block-title-page-3 .info-text-page-3 {
+        width: 90%;
+        font-size: 17px;
+        line-height: 30px;
+    }
+
+    .info-text-page-3 span {
+        font-size: 22px;
+        margin-bottom: -10px;
+    }
+
+    .header-block-title-page-3 h1 {
+        width: 300px;
+        text-align: center;
+        font-size: 35px;
+        margin-top: -30px;
+    }
+
+    .images-block-bg {
+        display: block;
+        background: rgba(0, 0, 0, 0);
+        z-index: -10;
+    }
+
+    .image-gallery {
+        z-index: -20;
+    }
+
+    .images-container-fadeOff {
+        display: none;
+    }
+
+    .image-gallery {
+        width: 80%;
+    }
+
+    .image-gallery:hover {
+        transform: scale(1);
+        transition: .4s;
+    }
+}
+
+/*      don't touch !!!!!!!!!!!     */
+
+@media (max-width: 416px) {
+
+    .header-block-title h1 {
+        font-size: 35px;
+    }
+
+    .work-info-block {
+        height: 680px;
+    }
+
+    .experience-work {
+        font-size: 24px;
+    }
+
+    .work-info-block hr {
+        width: 100px;
+        height: 1.6px;
+        background: #000;
+    }
+
+    .work-info-block p {
+        font-size: 17px;
+        line-height: 30px;
+    }
+
+
+    .buy-ceiling {
+        padding: 12px 60px;
+        font-size: 12px;
+    }
+
+
+
+    .buy-ceiling:hover {
+        background-clip: padding-box;
+        letter-spacing: 3px;
+        padding: 12px 70px;
+        border-radius: 20px;
+        transition: 0.2s;
+    }
+
+    .header-block-info h2 {
+        width: 170px;
+    }
+
+
+    .buy-ceiling-page-3 {
+        margin-top: 20px;
+    }
+
+    .header-block-title .info-text {
+        width: 92%;
+    }
+
+    .header-page-3 {
+        height: 500px;
+    }
+
+    .header-block-title-page-3 .info-text-page-3 {
+        width: 90%;
+        font-size: 13px;
+        line-height: 30px;
+    }
+
+    .info-text-page-3 span {
+        font-size: 18px;
+        margin-left: 0;
+        margin-bottom: -10px;
+    }
+
+    .header-block-title-page-3 h1 {
+        width: 230px;
+        text-align: center;
+        font-size: 26px;
+        margin-top: -10px;
+    }
+
+    .work-info-block-page-3-block-2 {
+        height: 440px;
+    }
+
+    .buy-ceiling-page-3 {
+        margin-top: 40px;
+    }
+
+    .whyWe_page_2_title {
+        padding: 0;
+    }
+    
+    .block-info-list-page-2 {
+        padding: 30px 0px 30px 0px;    
+    }
+    
+    .header-block-info-logo-page-3{
+        top: 10px;
+    }
+
+}
+
+/*      don't touch !!!!!!!!!!!     */
+
+@media (max-width: 590px) {
+    .whyWe_page_2_blocks img {
+        width: 60px;
+        height: 60px;
+        margin-top: 30px;
+    }
+
+    .whyWe_page_2_blocks h3 {
+        margin-bottom: 0;
+    }
+
+    .whyWe_page_2_blocks p {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+
+    .whyWe_page_2_title {
+        width: 330px;
+    }
+
+    /*    work-info-block-page-3     */
+
+    .work-info-block-page-3 {
+        height: 480px;
+    }
+
+    .work-info-block-page-3 p {
+        font-size: 18px;
+        line-height: 42px;
+    }
+
+    .experience-work-page-3 {
+        font-size: 30px;
+        line-height: 45px;
+    }
+
+    .whyWe_page_3_title {
+        font-size: 36px;
+    }
+
+    .whyWe_page_3_text {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+
+    .types_ceiling_title {
+        font-size: 35px;
+    }
+
+    .types_ceiling_text {
+        font-size: 15px;
+    }
+
+    .modal_window_block,
+    .modal_window_block_second {
+        width: 90%;
+    }
+
+    .modal_block_text_h1 {
+        font-size: 35px;
+    }
+
+    .modal_block_text_h1_second {
+        font-size: 25px;
+    }
+
+}
+
+/*      don't touch !!!!!!!!!!!     */
+
+@media (max-width: 528px) {
+
+    .price_table_block,
+    .price_table_block_first {
+        width: 86%;
+    }
+
+    .pay_title {
+        width: 95%;
+        font-size: 28px;
+        padding: 0;
+    }
+
+    .pay_p {
+        width: 80%;
+        font-size: 16px;
+    }
+
+    .header-block-title .info-text-page-2 {
+        font-size: 15px;
+        line-height: 35px;
+    }
+
+    .slider-btn-right,
+    .slider-btn-left {
+        top: 250px;
+    }
+
+    .types_ceiling_title {
+        font-size: 30px;
+    }
+
+    .header-block-info-page-2 {
+        height: 62px;
+    }
+
+    .header-block-title-before {
+        height: 400px;
+    }
+
+    .header-block-title-before h1 {
+        font-size: 33px;
+    }
+
+    .work-info-block-page-2 {
+        margin-top: -60px;
+    }
+    
+    .sertificate-img img{
+        width: auto;
+        height: 80%;
+    }
+}
+
+@media (max-width: 512px) {
+
+    .whyWe_page_2_title {
+        width: 95%;
+        font-size: 30px;
+    }
+
+    .whyWe_page_2_text {
+        font-size: 15px;
+    }
+
+    /*    work-info-block-page-3     */
+    
+    .work-info-block-page-3 p {
+        width: 96%;
+        font-size: 15px;
+        line-height: 30px;
+    }
+
+    .experience-work-page-3 {
+        width: 290px;
+        font-size: 27px;
+        line-height: 45px;
+    }
+
+    .whyWe_page_3_title {
+        font-size: 36px;
+    }
+
+    .whyWe_page_3_text {
+        font-size: 20px;
+    }
+
+    .three_stage_title {
+        width: 360px;
+        font-size: 31px;
+    }
+
+    .color_block_list ul{
+        font-size: 15px;
+    }
+    
+}
+
+@media (max-width: 500px) {
+
+    .block-fadeOff {
+        margin-left: 0px;
+    }
+
+    .block-text-and-plus h3 {
+        margin-left: 20px;
+    }
+
+    .three_stage_container {
+        padding: 50px 0px 10px 0px;
+    }
+
+    .underline_three_stage {
+        display: none;
+    }
+
+    .whyWe-img {
+        display: none;
+    }
+
+    .whyWe-img img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .whyWe-img-head img {
+        width: 50px;
+        height: 70px;
+    }
+    
+    .block-carousel-title{
+        width: 350px;
+        font-size: 20px;
+    }
+
+}
+
+@media (max-width: 460px) {
+
+    .three_stage_block_text p {
+        line-height: 22px;
+        font-size: 14px;
+    }
+
+    .circle_img_block {
+        width: 160px;
+        height: 160px;
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+
+    .line_between_blocks {
+        width: 100%;
+        height: 3px;
+        left: 0%;
+    }
+
+    .modal_window_block,
+    .modal_window_block_second {
+        width: 98%;
+    }
+
+}
+
+@media (max-width: 440px) {
+
+    .buy-drain-water p {
+        width: 270px;
+        font-size: 25px;
+    }
+
+    .experience-work-page-2-block-2 {
+        width: 90%;
+        font-size: 19px;
+    }
+
+    .work-info-block-page-2-block-2 p {
+        font-size: 13px;
+    }
+
+    .slider-block-info-static {
+        width: 320px;
+        height: 200px;
+    }
+
+    .slider-block-move img {
+        width: 320px;
+        height: 200px;
+    }
+
+    .map_frame {
+        width: 300px;
+        height: 350px;
+    }
+
+    .maps {
+        width: 300px;
+        height: 350px;
+    }
+
+    .ourContacts_text {
+        font-size: 15px;
+    }
+
+    .footer_info_text {
+        text-align: center;
+    }
+
+    .buy-drain-water-2 p {
+        width: 95%;
+        font-size: 20px;
+    }
+
+}
+
+@media (max-width: 428px) {
+    .whyWe-block {
+        width: 100%;
+    }
+
+    .modal_block_text_h1 {
+        font-size: 31px;
+    }
+
+    .modal_block_text_h1_second {
+        font-size: 21px;
+    }
+    
+    .color_title_block_text{
+        margin-top: 0px;
+    }
+    
+    .color_title_block_text_top{
+        margin-top: 30px;
+    }
+    
+    .work-info-block-page-3 p {
+        font-size: 13px;
+    }
+
+}
+
+@media (max-width: 380px) {
+
+    .modal_block_img {
+        position: relative;
+        padding-bottom: 40px;
+    }
+
+    .modal_block_img img:first-child {
+        width: 176px;
+        margin-left: -90px;
+    }
+
+    .modal_block_img img:last-child {
+        width: 164px;
+        position: absolute;
+        top: 70px;
+        left: 35%;
+        transform: scale(.8);
+    }
+
+    .modal_block_text_h1 {
+        font-size: 26px;
+    }
+
+    .modal_block_text_h1_second {
+        font-size: 18px;
+        margin-bottom: 0;
+    }
+
+    .three_stage_title {
+        width: 230px;
+        font-size: 28px;
+    }
+    
+    .color_title_block_text{
+        font-size: 13px;
+    }
+    
+    .color_title_block_text_top{
+        font-size: 15px;
+    }
+
+    .work-info-block-page-3{
+        height: 400px;
+    }
+    
+    .work-info-block-page-3 p {
+        width: 280px;
+        font-size: 11px;
+    }
+    
+    .block-carousel-title{
+        width: 300px;
+        font-size: 17px;
+    }
+    
+}
+
+@media (max-width: 372px) {
+
+    .experience-work-page-3 {
+        width: 250px;
+        font-size: 22px;
+        line-height: 40px;
+    }
+
+    .whyWe_page_2_title {
+        font-size: 25px;
+    }
+
+    .whyWe_page_2_text {
+        width: 270px;
+        line-height: 20px;
+        font-size: 12px;
+        margin-top: 30px;
+    }
+
+    .whyWe_page_3_title {
+        width: 270px;
+        font-size: 29px;
+    }
+
+    .whyWe_page_3_text {
+        font-size: 17px;
+        margin-bottom: 20px;
+    }
+
+    .header-block-title-before {
+        height: 370px;
+    }
+
+    .header-block-title-before h1 {
+        margin-top: -10px;
+    }
+
+    .header-block-title-after h1 {
+        margin: 0px;
+    }
+
+    .slider-btn-left,
+    .slider-btn-right {
+        top: 370px;
+        opacity: .7;
+    }
+
+    .work-info-block-page-2 {
+        margin-top: -100px;
+    }
+
+    .sertificate-img img{
+        transform: scale(.8);
+    }
+    
+}
+
+@media (max-width: 360px) {
+
+    .price_table_block,
+    .price_table_block_first {
+        width: 100%;
+    }
+
+    .price_table_block_first p:last-child span {
+        margin-right: 25px;
+    }
+
+    .price_table_block p:last-child span {
+        margin-right: 25px;
+    }
+
+
+    .block-fadeOff ol {
+        padding-left: 23px;
+    }
+
+    .block-text-and-plus h3 {
+        margin-left: 10px;
+        font-size: 15px;
+    }
+
+    .work-info-block-page-2 .experience-work {
+        font-size: 25px;
+    }
+
+    .work-info-block-page-2 p {
+        font-size: 13px;
+    }
+
+    .work-info-block-page-2 .buy-ceiling {
+        padding: 15px 11px;
+    }
+
+    .work-info-block-page-2 .buy-ceiling:hover {
+        letter-spacing: 0px;
+        padding: 15px 11px;
+    }
+
+    .pay_title {
+        margin-top: 80px;
+        font-size: 28px;
+    }
+
+    .pay_p {
+        margin-top: 20px;
+        width: 85%;
+        font-size: 16px;
+    }
+
+    .btn_down {
+        margin-top: 50px;
+    }
+
+
+    .header-block-title .info-text-page-2 {
+        font-size: 15px;
+        margin-top: 50px;
+        line-height: 35px;
+    }
+
+    .header-block-title-before .info-text-page-2 {
+        margin-top: 0;
+    }
+
+    .header-block-title-before h1 {
+        font-size: 30px;
+    }
+
+    .types_ceiling_block {
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flex;
+        display: -o-flex;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .types_ceiling_type {
+        transform: scale(.9);
+        left: auto;
+    }
+
+    .whatWeDo-blocks {
+        width: 100%;
+    }
+
+    .whatWeDo-block {
+        transform: scale(.9);
+    }
+
+}
+
+@media (max-width: 340px) {
+
+    .slider-info-btn-left,
+    .slider-info-btn-right {
+        width: 40px;
+        height: 40px;
+        opacity: .8;
+    }
+
+    .slider-info-btn-left img,
+    .slider-info-btn-right img {
+        width: 10px;
+        height: 10px;
+        margin-top: 15px;
+        margin-left: 5px;
+    }
+
+    .slider-block-info-static {
+        width: 260px;
+        height: 150px;
+    }
+
+    .slider-block-move img {
+        width: 260px;
+        height: 150px;
+    }
+
+    .map_frame {
+        width: 240px;
+        height: 300px;
+    }
+
+    .maps {
+        width: 240px;
+        height: 300px;
+    }
+
+    .ourContacts_text {
+        font-size: 15px;
+    }
+
+    .work-info-block-page-3-block-2 {
+        height: 400px;
+    }
+
+    .experience-work-page-3-block-2 {
+        font-size: 25px;
+    }
+
+    .buy-drain-water-2 p {
+        width: 95%;
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .buy-drain-water-2 hr {
+        height: 1.5px;
+    }
+
+    .types_ceiling_title {
+        font-size: 27px;
+    }
+
+    .types_ceiling_text {
+        font-size: 12px;
+    }
+
+    .modal_block_text_h1 {
+        font-size: 26px;
+    }
+
+    .modal_block_text_h1_second {
+        font-size: 14px;
+        margin-left: 5px;
+    }
+
+    .modal_btn_back {
+        transform: scale(.9);
+        margin-left: -10px;
+    }
+
+}
+
+@media (max-width: 326px) {
+
+    .whyWe-title {
+        font-size: 30px;
+    }
+
+    .whatWeDo-title {
+        font-size: 30px;
+    }
+
+    .buy-drain-water-page-4 p {
+        width: 200px;
+    }
+
+    .header-block-title-after h1 {
+        font-size: 25px;
+    }
+
+}
+
+@media (max-width: 320px) {
+
+    .whyWe_page_2_blocks {
+        margin-left: -10px;
+        /*        margin-bottom: 60px;*/
+    }
+
+    .whyWe_page_2_blocks img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .whyWe_page_2_block_text {
+        width: 100%;
+    }
+
+    .whyWe_page_2_blocks p {
+        width: 100%;
+        font-size: 13.5px;
+    }
+
+    .whyWe_page_2_title {
+        font-size: 20px;
+    }
+    
+    .block-carousel-title{
+        width: 270px;
+        font-size: 17px;
+    }
+
+}
+
+@media (max-width: 308px) {
+    .header-block-title-page-3 h1 {
+        margin-top: 50px;
+    }
+
+    .header-block-title-page-3 hr {
+        margin-top: -40px;
+    }
+
+    .modal_block_text_h1 {
+        font-size: 21px;
+    }
+
+    .whatWeDo-block {
+        box-shadow: none;
+    }
+
+    .buy-ceiling-page-1 {
+        margin-top: 10px;
+    }
+    
+    .work-info-block-page-3 p {
+        width: 270px;
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 300px) {
+
+    .three_stage_block_text p {
+        line-height: 22px;
+        font-size: 14px;
+    }
+
+    .three_stage_block_text h3 {
+        font-size: 20px;
+    }
+
+    .circle_img_block {
+        width: 160px;
+        height: 160px;
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+
+
+
+}
+
+@media (max-width: 290px) {
+    .types_ceiling_title {
+        font-size: 25px;
+    }
+
+    .types_ceiling_text {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 273px) {
+    .whatWeDo-block p{
+        font-size: 15px;
+    }
+}
